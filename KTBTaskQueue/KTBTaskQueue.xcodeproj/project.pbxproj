@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2285819C23320F3100EF44E6 /* KTBTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 2285819723320F3100EF44E6 /* KTBTask.h */; };
+		2285819C23320F3100EF44E6 /* KTBTask.h in Headers */ = {isa = PBXBuildFile; fileRef = 2285819723320F3100EF44E6 /* KTBTask.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2285819D23320F3100EF44E6 /* KTBTaskQueue.h in Headers */ = {isa = PBXBuildFile; fileRef = 2285819823320F3100EF44E6 /* KTBTaskQueue.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2285819E23320F3100EF44E6 /* KTBTaskQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = 2285819923320F3100EF44E6 /* KTBTaskQueue.m */; };
 		2285819F23320F3100EF44E6 /* KTBTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 2285819A23320F3100EF44E6 /* KTBTask.m */; };
